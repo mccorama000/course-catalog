@@ -1,16 +1,33 @@
 /* FONTS */
 
+* {
+    font-family: 'PT Serif', serif;
+    letter-spacing: .5px;
+    text-align: left;
+
+}
+
 body {
-    font-family: 'Roboto', sans-serif;
     background: black;
 }
 
 
 /* YOUR STYLES */
 
+title {
+     font-family: 'PT Serif', serif;
+}
+
+h1, h3 {
+   font-weight: bold;
+}
+
+
+
 .cd-header {
     background: #a10022;
 }
+
 
 /* CONTENT CONTAINERS */
 .cd-gallery li {
